@@ -127,7 +127,7 @@
         android:layout_below="@+id/dashboard"
         android:layout_marginStart="10dp"
         android:layout_marginTop="12dp"
-        android:text="Доход и Расходы"
+        android:text="Расход и Доход"
         android:textColor="@color/black"
         android:textSize="30dp"
         android:textStyle="bold" />

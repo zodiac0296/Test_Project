@@ -20,7 +20,7 @@
         android:id="@+id/amount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="$10"
+        android:text="¥10"
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_marginEnd="12dp" />
